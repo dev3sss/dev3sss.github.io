@@ -64,8 +64,8 @@ sidebar:
           url: /atom.xml
         - icon: fas fa-envelope
           url: mailto:yonghaoy@qq.com
-        # - icon: fab fa-github
-        #   url: https://github.com/yuang01/hexo-theme-bamboo
+        - icon: fab fa-github
+          url: https://github.com/dev3sss
         - icon: fab fa-qq
           url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=208787609
     # ---------------------------------------
