@@ -3,16 +3,16 @@
 
 # 菜单
 menu:
-  Home:
+  首页:
     url: /
     icon: fas fa-home
-  Archives:
+  归档:
     url: /archives
     icon: fas fa-archive
-  Tags:
+  标签:
     url: /tags
     icon: fas fa-tags
-  Categories:
+  分类:
     url: /categories
     icon: fas fa-bookmark
 #   Friends:
